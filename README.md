@@ -1,4 +1,5 @@
-# Code 102 with Lead Instructor Shehab Eshtaiwi.
+# Code 102: Intro to Software Development 
+Code 102 with Lead Instructor Shehab Eshtaiwi.
 
 Welcome, We’re delighted to have you as a member of our Code 102: Intro to Software Development course, where you'll learn the basics of computer programming. It'll be a lot of work and a lot of fun.
 
